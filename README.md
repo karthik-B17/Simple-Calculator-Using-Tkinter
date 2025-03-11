@@ -1,10 +1,1 @@
-Introduction: A simple GUI-based calculator using Tkinter in Python.
-Window Setup: Initializes a Tkinter window with a title and fixed size.
-Input Field: An entry box is used to display numbers and results.
-Number Buttons: Buttons (0-9) allow users to input numbers.
-Operator Buttons: Addition, subtraction, multiplication, and division functions are implemented.
-Equal Button (=): Computes and displays the result based on user input.
-Clear & Backspace: "AC" clears input, and "Backspace" removes the last digit.
-Power Off Button: Displays a confirmation message before exiting.
-Event Handling: Functions handle button clicks and arithmetic operations.
-Execution: Runs with window.mainloop() to keep the GUI active.
+This project is a simple GUI-based calculator built using Tkinter in Python. It initializes a Tkinter window with a title and fixed size, featuring an entry box to display user input and results. Numeric buttons (0-9) allow input, while operator buttons (+, -, *, /) handle arithmetic operations. The equal button (=) computes and displays the result. Additional functionalities include "AC" to clear input, "Backspace" to remove the last digit, and a "Power Off" button that asks for confirmation before exiting. Event handling functions process button clicks and perform calculations, while window.mainloop() keeps the application running.
